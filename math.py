@@ -3,7 +3,10 @@ def add(a,b):
 	return s
 	
 def subtract(a,b):
-	s=a-b
-	return s
+
+	if x<y:
+		return ERROR
+	return a-b
+
 def multiply(a,b):
 	return x*y
